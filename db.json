@@ -1,0 +1,24 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Goat",
+      "health": "Ill"
+    },
+    {
+      "name": "sheep",
+      "health": "healthy",
+      "id": 2
+    },
+    {
+      "name": "Dog",
+      "health": "healthy",
+      "id": 3
+    },
+    {
+      "name": "Cat",
+      "health": "healthy",
+      "id": 4
+    }
+  ]
+}
